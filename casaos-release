@@ -1,0 +1,27 @@
+version: v0.4.8
+release_notes: |
+  # [0.4.8] Online Update
+mirrors:
+  - https://github.com/IceWhaleTech
+  - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech
+packages:
+  - path: /zimaos-rauc/releases/download/0.4.8/casaos_zimacube-0.4.4.tar
+    architecture: amd64
+  - path: /IceWhaleTech/zimaos-rauc/releases/download/0.4.8/casaos_zimacube-0.4.4.tar
+    architecture: arm64
+  - path: /IceWhaleTech/zimaos-rauc/releases/download/0.4.8/casaos_zimacube-0.4.4.tar
+    architecture: armv7
+checksums: /get/releases/download/v0.4.4-1/checksums.txt
+modules:
+  - name: casaos-gateway
+    short: gateway
+  - name: casaos-user-service
+    short: user-service
+  - name: casaos-message-bus
+    short: message-bus
+  - name: casaos
+    short: casaos
+  - name: casaos-local-storage
+    short: local-storage
+  - name: casaos-app-management
+    short: app-management
