@@ -5,11 +5,11 @@ mirrors:
   - https://github.com/IceWhaleTech
   - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech
 packages:
-  - path: /zimaos-rauc/releases/download/0.4.8/casaos_zimacube-0.4.4.tar
+  - path: /zimaos-rauc/releases/download/0.4.8/zimaos_zimacube-0.4.8.tar
     architecture: amd64
-  - path: /IceWhaleTech/zimaos-rauc/releases/download/0.4.8/casaos_zimacube-0.4.4.tar
+  - path: /IceWhaleTech/zimaos-rauc/releases/download/0.4.8/zimaos_zimacube-0.4.8.tar
     architecture: arm64
-  - path: /IceWhaleTech/zimaos-rauc/releases/download/0.4.8/casaos_zimacube-0.4.4.tar
+  - path: /IceWhaleTech/zimaos-rauc/releases/download/0.4.8/zimaos_zimacube-0.4.8.tar
     architecture: armv7
 checksums: /get/releases/download/v0.4.4-1/checksums.txt
 modules:
