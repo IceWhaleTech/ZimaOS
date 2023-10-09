@@ -1,15 +1,15 @@
-version: v0.5.0
+version: v0.5.0.1
 release_notes: |
-  # [0.5.0] Online Update
+  # [0.5.0.1] Online Update
 mirrors:
   - https://github.com/IceWhaleTech
   - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech
 packages:
-  - path: /zimaos-rauc/releases/download/0.4.8/zimaos_zimacube-0.4.8.tar
+  - path: /zimaos-rauc/releases/download/0.4.8.1/zimaos_zimacube-0.4.8.tar
     architecture: amd64
-  - path: /IceWhaleTech/zimaos-rauc/releases/download/0.4.8/zimaos_zimacube-0.4.8.tar
+  - path: /IceWhaleTech/zimaos-rauc/releases/download/0.4.8.1/zimaos_zimacube-0.4.8.tar
     architecture: arm64
-  - path: /IceWhaleTech/zimaos-rauc/releases/download/0.4.8/zimaos_zimacube-0.4.8.tar
+  - path: /IceWhaleTech/zimaos-rauc/releases/download/0.4.8.1/zimaos_zimacube-0.4.8.tar
     architecture: armv7
 checksums: /get/releases/download/v0.4.4-1/checksums.txt
 modules:
