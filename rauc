@@ -1,6 +1,7 @@
-version: v0.5.0.1
+version: v0.5.0.5
 release_notes: |
-  # [0.5.0.1] Online Update
+  # [0.5.0.5] Online Update
+  2023-10-13-14:34:00
 mirrors:
   - https://github.com/IceWhaleTech
   - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech
