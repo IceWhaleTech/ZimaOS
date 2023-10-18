@@ -1,0 +1,10 @@
+version: v0.4.8
+release_notes: |
+  ### first release
+	first release!!!! Test only!!!
+mirrors:
+  - https://github.com/IceWhaleTech
+packages:
+  - path: /zimaos-rauc/releases/download/0.4.8.1/zimaos_zimacube-0.4.8.raucb
+    architecture: amd64
+checksums: /zimaos-rauc/releases/download/0.4.8.1/checksums.txt
