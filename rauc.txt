@@ -8,3 +8,16 @@ packages:
   - path: /zimaos-rauc/releases/download/0.4.8.1/zimaos_zimacube-0.4.8.raucb
     architecture: amd64
 checksums: /zimaos-rauc/releases/download/0.4.8.1/checksums.txt
+modules:
+  - name: casaos-gateway
+    short: gateway
+  - name: casaos-user-service
+    short: user-service
+  - name: casaos-message-bus
+    short: message-bus
+  - name: casaos
+    short: casaos
+  - name: casaos-local-storage
+    short: local-storage
+  - name: casaos-app-management
+    short: app-management
