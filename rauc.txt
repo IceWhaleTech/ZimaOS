@@ -1,4 +1,4 @@
-version: v0.4.9
+version: v0.4.8
 release_notes: |
   ### first release \n\nfirst release!!!! Test only!!!
 mirrors:
