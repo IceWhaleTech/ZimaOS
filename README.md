@@ -101,3 +101,4 @@ sudo apt install libfuse2
 - If you used a live operating system (e.g. Ubuntu), shut it down and remove the live operating system USB device.
   1. Plug in an Ethernet cable that is connected to the network.
   2. Power the system on. If you have a screen connected to the Zima device or Generic x86-64 system, after a minute you can visit ZimaOS via https://findzima.com.
+  3. Default ssh login/password is `root/testonly`
