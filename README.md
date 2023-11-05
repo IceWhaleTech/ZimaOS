@@ -11,6 +11,11 @@ It is built using Buildroot and has stable OTA update functionality. Based on Ca
 
 <img src="./assets/feature.png" >
 
+## Discuss
+
+This project is just for releasing test images, if you want to discuss related issues, feel free to go to our forum.
+[Icewhale Communit](https://icewhale.community/t/welcome-to-the-zimaos-open-beta-program/295/13) 
+
 ## Distribution Features
 
 - Lightweight and memory-efficient
@@ -100,5 +105,5 @@ sudo apt install libfuse2
 - If you used your desktop system to write the ZimaOS image directly to a boot medium like an S-ATA SSD, connect this back to your Generic x86-64 system.
 - If you used a live operating system (e.g. Ubuntu), shut it down and remove the live operating system USB device.
   1. Plug in an Ethernet cable that is connected to the network.
-  2. Power the system on. If you have a screen connected to the Zima device or Generic x86-64 system, after a minute you can visit ZimaOS via https://findzima.com.
+  2. Power the system on. If you have a screen connected to the Zima device or Generic x86-64 system, after a minute when you see `Reached target Multi-User System`, you can visit ZimaOS via https://findzima.com.
   3. Default ssh login/password is `root/testonly`
