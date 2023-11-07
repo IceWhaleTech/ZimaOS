@@ -1,9 +1,25 @@
-version: v0.4.8
-release_notes: |
-  ### first release \n\nfirst release!!!! Test only!!!
+version: v0.4.9
+release_notes: >
+  ## [0.4.9]
+
+
+  ### Fixed
+
+
+  - Fixed the issue where server connect would cause the zima client (Windows) to crash.
+
+  - Blocked the display of the optical drive in the disk.
+
+  - Fixed the issue where server connect would fail if the assigned network segment and gateway were not in the same range, resulting in inability to allocate a network ID.
+
+  - Fixed the problem where Samba was mounted but lacked access permission.
+
+  - Addressed display adaptation issues on the mobile end.
+
+  - Optimized OTA updates.
 mirrors:
   - https://github.com/IceWhaleTech
 packages:
-  - path: /zimaos-rauc/releases/download/0.4.8.1/zimaos_zimacube-0.4.8.raucb
+  - path: /zimaos-rauc/releases/download/0.4.9/zimaos_zimacube-0.4.9.raucb
     architecture: amd64
-checksums: /zimaos-rauc/releases/download/0.4.8.1/checksums.txt
+checksums: /zimaos-rauc/releases/download/0.4.9/checksums.txt
