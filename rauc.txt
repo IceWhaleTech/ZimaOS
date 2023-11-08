@@ -19,6 +19,7 @@ release_notes: >
   - Optimized OTA updates.
 mirrors:
   - https://github.com/IceWhaleTech
+  - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech
 packages:
   - path: /zimaos-rauc/releases/download/0.4.9/zimaos_zimacube-0.4.9.raucb
     architecture: amd64
