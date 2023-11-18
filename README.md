@@ -9,8 +9,10 @@ Welcome to join the open beta program of ZimaOS. ZimaOS is evolved from CasaOS, 
 
 It is built using Buildroot and has stable OTA update functionality. Based on CasaOS, we have built a series of new applications. You can find the specific differences between it and CasaOS from the table below:
 
-<img src="./assets/feature.png" >
+<div align="center">
 
+   <img src="./assets/feature.png" width="640" >
+</div>
 ## Discussion
 
 This project is just for releasing test images, if you want to discuss related issues, feel free to go to our forum.
@@ -107,3 +109,7 @@ sudo apt install libfuse2
   1. Plug in an Ethernet cable that is connected to the network.
   2. Power the system on. If you have a screen connected to the Zima device or Generic x86-64 system, after a minute when you see `Reached target Multi-User System`, you can visit ZimaOS via https://findzima.com.
   3. Default ssh login/password is `root/testonly`
+
+## Installation on Proxmox
+
+[Follow the link](https://github.com/IceWhaleTech/zimaos-rauc/issues/5).  Thanks [@silycr](https://github.com/silycr) for the tutorial!
