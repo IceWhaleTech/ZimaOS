@@ -13,6 +13,7 @@ It is built using Buildroot and has stable OTA update functionality. Based on Ca
 
    <img src="./assets/feature.png" width="640" >
 </div>
+
 ## Discussion
 
 This project is just for releasing test images, if you want to discuss related issues, feel free to go to our forum.
