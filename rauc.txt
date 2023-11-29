@@ -1,10 +1,10 @@
-version: v0.4.9.2
+version: v0.4.9.3
 release_notes: >
-  ## [0.4.9.2]\n### System:\n- Added resolved.conf in overlay-fs to resolve the issue of systemd-resolve occupying port 53.\n- Added the /opt directory and mounted it to /var/lib/casaos_data/.opt for persistent storage support.\n- Mounted /var/log to /var/lib/casaos_data/.log for persistent storage support.\n- Changed the default shell from sh to bash and added auto-completion functionality.\n- Fix the issue of the Zimaos.service having a probability of not being able to start.\n- Changed the prompt display for the default shell.\n### Files:\n- After selecting the file path bar, you can deselect by clicking on more blank areas.\n- After canceling the backup on the client for file backup, and deleting the corresponding backup folder in webui, the Backup record will disappear.\n- Audio and video playback optimization.\n- Fixed multiple display issues.\n### Main UI:\n- Application store and widget hierarchical display bugs.\n### OTA:\n- Added logs for release notes not displaying correctly.\n
+  ## [0.4.9.3]\n### OTA:\n- Fixed the issue of v0.4.9.2 U-disk Zimaos system update failure (will no longer automatically mount slot A/B).\n### App Store:\n- Fixed multiple display issues.\n- Removed the exclamation mark from the app update prompt.\n### Zima Client:\n- Optimized the uninstallation of the Windows client.\n- Optimized file backup.\n
 mirrors:
   - https://github.com/IceWhaleTech
   - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech
 packages:
-  - path: /zimaos-rauc/releases/download/0.4.9.2/zimaos_zimacube-0.4.9.2.raucb
+  - path: /zimaos-rauc/releases/download/0.4.9.3/zimaos_zimacube-0.4.9.3.raucb
     architecture: amd64
-checksums: /zimaos-rauc/releases/download/0.4.9.2/checksums.txt
+checksums: /zimaos-rauc/releases/download/0.4.9.3/checksums.txt
