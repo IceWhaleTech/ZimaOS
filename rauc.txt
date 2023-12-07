@@ -1,10 +1,10 @@
-version: v0.4.9.3
+version: v0.4.9.4
 release_notes: >
-  ## [0.4.9.3]\n### OTA:\n- Fixed the issue of v0.4.9.2 U-disk Zimaos system update failure (will no longer automatically mount slot A/B).\n### App Store:\n- Fixed multiple display issues.\n- Removed the exclamation mark from the app update prompt.\n### Zima Client:\n- Optimized the uninstallation of the Windows client.\n- Optimized file backup.\n
+  ## [0.4.9.4]\n### Files:\n- Fixed the issue where thumbnail generation failed for images with spaces in their names.\n- Corrected errors in the Paste-Overwrite functionality.\n### System:\n- Resolved the problem of partition mounting failure during dd installation.\n- Added a new installation method using USB installer.img.\n- Introduced support for Thunderbolt interface.\n- Added nvme-cli.\n
 mirrors:
   - https://github.com/IceWhaleTech
   - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech
 packages:
-  - path: /zimaos-rauc/releases/download/0.4.9.3/zimaos_zimacube-0.4.9.3.raucb
+  - path: /zimaos-rauc/releases/download/0.4.9.4/zimaos_zimacube-0.4.9.4.raucb
     architecture: amd64
-checksums: /zimaos-rauc/releases/download/0.4.9.3/checksums.txt
+checksums: /zimaos-rauc/releases/download/0.4.9.4/checksums.txt
