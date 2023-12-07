@@ -40,11 +40,15 @@ To boot ZimaOS, the BIOS needs to have UEFI boot mode enabled and Secure Boot di
 
 Next, we need to write the ZimaOS image to the “boot medium”, which is the medium your zima device or x86-64 hardware will boot from when it is running ZimaOS.
 
-### Notice
+### Extra
 
-ZimaOS has no integrated installer that writes the image automatically, you must write it manually using e.g. Etcher.
+The ZimaOS USB installation image has been released. Use Balena Etcher to burn the installation image to a USB disk. Now you can use this installer to install ZimaOS to any internal hard disk.
 
-Meanwhile, our integrated installer is under active development.
+Note that it still requires UEFI boot.
+```text
+https://github.com/IceWhaleTech/zimaos-rauc/releases/download/0.4.9.4/zimaos_zimacube-0.4.9.4_installer.img
+```
+We have also released images in a variety of VM formats, which you can download as needed from the [Release](https://github.com/IceWhaleTech/zimaos-rauc/releases/tag/0.4.9.4) page.
 
 ---
 
@@ -75,7 +79,7 @@ sudo apt install libfuse2
    - If there are multiple links below, make sure to select the correct link for your version of Generic x86-64.
 
      ```text
-     https://github.com/IceWhaleTech/zimaos-rauc/releases/download/0.4.9.1/zimaos_zimacube-0.4.9.1.img.xz
+     https://github.com/IceWhaleTech/zimaos-rauc/releases/download/0.4.9.4/zimaos_zimacube-0.4.9.4.img.xz
      ```
 
    Select and copy the URL or use the “copy” button that appear when you hover it
