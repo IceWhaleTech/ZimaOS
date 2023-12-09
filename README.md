@@ -3,7 +3,7 @@
 [release-badge]: https://img.shields.io/github/v/release/IceWhaleTech/zimaos-rauc?include_prereleases&style=flat-square
 [download]: https://github.com/IceWhaleTech/zimaos-rauc/releases
 [download-badge]: https://img.shields.io/github/downloads/IceWhaleTech/zimaos-rauc/total?style=flat-square
-[community]: https://icewhale.community/t/welcome-to-the-zimaos-open-beta-program/295/13
+[community]: https://icewhale.community/t/welcome-to-the-zimaos-open-beta-program/295
 [community-badge]: https://img.shields.io/badge/Contact-community-blue?style=flat-square
 
 <div align="center">
@@ -27,7 +27,7 @@ It is built using Buildroot and has stable OTA update functionality. Based on Ca
 ## Discussion
 
 This project is just for releasing test images, if you want to discuss related issues, feel free to go to our forum.
-[Icewhale Communit](https://icewhale.community/t/welcome-to-the-zimaos-open-beta-program/295/13) 
+[Icewhale Communit](https://icewhale.community/t/welcome-to-the-zimaos-open-beta-program/295) 
 
 ## Distribution Features
 
