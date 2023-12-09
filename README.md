@@ -1,8 +1,18 @@
+
+[release]: https://github.com/IceWhaleTech/zimaos-rauc/releases
+[release-badge]: https://img.shields.io/github/v/release/IceWhaleTech/zimaos-rauc?include_prereleases&style=flat-square
+[download]: https://github.com/IceWhaleTech/zimaos-rauc/releases
+[download-badge]: https://img.shields.io/github/downloads/IceWhaleTech/zimaos-rauc/total?style=flat-square
+[community]: https://icewhale.community/t/welcome-to-the-zimaos-open-beta-program/295/13
+[community-badge]: https://img.shields.io/badge/Contact-community-blue?style=flat-square
+
 <div align="center">
 <img src="./assets/zima.svg" width="100">
 
 # ZimaOS Open Beta Program
-
+[![release][release-badge]][release]
+[![download][download-badge]][download]
+[![community][community-badge]][community]
 </div>
 
 Welcome to join the open beta program of ZimaOS. ZimaOS is evolved from CasaOS, and we have built a release version of ZimaOS for better hardware compatibility and update experience. It will perfectly adapt to the Zima series hardware and also be compatible with x86-64 systems with UEFI.
