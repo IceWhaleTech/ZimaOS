@@ -8,3 +8,5 @@ packages:
   - path: /zimaos-rauc/releases/download/0.4.9.4/zimaos_zimacube-0.4.9.4.raucb
     architecture: amd64
 checksums: /zimaos-rauc/releases/download/0.4.9.4/checksums.txt
+code: Murjek
+background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.0/Hover%20background.jpg
