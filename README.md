@@ -1,4 +1,4 @@
-
+![image](https://github.com/IceWhaleTech/zimaos-rauc/assets/13556972/13abf0f7-741d-46d3-9e1c-184bc68032bf)
 [release]: https://github.com/IceWhaleTech/zimaos-rauc/releases
 [release-badge]: https://img.shields.io/github/v/release/IceWhaleTech/zimaos-rauc?include_prereleases&style=flat-square
 [download]: https://github.com/IceWhaleTech/zimaos-rauc/releases
@@ -59,7 +59,7 @@ Note that it still requires UEFI boot.
 ```text
 https://github.com/IceWhaleTech/zimaos-rauc/releases/download/0.4.9.4/zimaos_zimacube-0.4.9.4_installer.img
 ```
-We have also released images in a variety of VM formats, which you can download as needed from the [Release](https://github.com/IceWhaleTech/zimaos-rauc/releases/tag/0.4.9.4) page.
+We have also released images in a variety of VM formats, which you can download as needed from the Release page.
 
 ---
 
@@ -90,7 +90,7 @@ sudo apt install libfuse2
    - If there are multiple links below, make sure to select the correct link for your version of Generic x86-64.
 
      ```text
-     https://github.com/IceWhaleTech/zimaos-rauc/releases/download/0.4.9.4/zimaos_zimacube-0.4.9.4.img.xz
+     https://zimaos.icewhale.io/zimaos-rauc/latest/zimaos_zimacube.img.xz
      ```
 
    Select and copy the URL or use the “copy” button that appear when you hover it
