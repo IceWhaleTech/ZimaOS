@@ -1,4 +1,3 @@
-![image](https://github.com/IceWhaleTech/zimaos-rauc/assets/13556972/13abf0f7-741d-46d3-9e1c-184bc68032bf)
 
 [release]: https://github.com/IceWhaleTech/zimaos-rauc/releases
 [release-badge]: https://img.shields.io/github/v/release/IceWhaleTech/zimaos-rauc?include_prereleases&style=flat-square
