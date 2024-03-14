@@ -57,7 +57,7 @@ The ZimaOS USB installation image has been released. Use Balena Etcher to burn t
 
 Note that it still requires UEFI boot.
 ```text
-https://zimaos.icewhale.io/zimaos-rauc/latest/zimaos_zimacube.img.xz
+https://zimaos.icewhale.io/zimaos-rauc/latest/zimaos_zimacube_installer.img
 ```
 We have also released images in a variety of VM formats, which you can download as needed from the Release page.
 
