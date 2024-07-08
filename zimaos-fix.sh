@@ -12,7 +12,7 @@ find /mnt/overlay/etc/ -type f -exec sh -c 'for f; do [ ! -s "$f" ] && echo "$f"
 while IFS= read -r file; do
     rm "$file"
     new_file=$(echo "$file" | sed 's/\/mnt\/overlay/\/tmp\/root/')
-    cp "$new_file" "$file"
+    [ -f "$new_file" ] && cp -f "$new_file" "$file"
     counter=$((counter + 1))
     echo "Fixed file: $file"
 done < "$temp_file"
