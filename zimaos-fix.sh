@@ -8,7 +8,7 @@ find /mnt/overlay/etc/ -type f -exec sh -c 'for f; do [ ! -s "$f" ] && echo "$f"
 while IFS= read -r file; do
     rm "$file"
     counter=$((counter + 1))
-    echo "Deleted empty file: $file"
+    echo "Fixed file: $file"
 done < "$temp_file"
 
 rm "$temp_file"
