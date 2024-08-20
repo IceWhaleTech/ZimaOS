@@ -51,10 +51,8 @@ To boot ZimaOS, the BIOS needs to have UEFI boot mode enabled and Secure Boot di
 Next, we need to write the ZimaOS image to the “boot medium”, which is the medium your zima device or x86-64 hardware will boot from when it is running ZimaOS.
 
 ### Extra
-<video width="640" height="360" controls>
-  <source src="https://github.com/IceWhaleTech/zimaos-rauc/assets/9485680/41351861-ec4c-45b7-bbc6-3c796607e4c4" type="video/webm">
-  Zima-screen0.webm
-</video>
+[Zima-screen0.webm](https://github.com/IceWhaleTech/zimaos-rauc/assets/9485680/41351861-ec4c-45b7-bbc6-3c796607e4c4)
+
 
 The ZimaOS USB installation image has been released. Use Balena Etcher to burn the installation image to a USB disk. Now you can use this installer to install ZimaOS to any internal hard disk.
 
