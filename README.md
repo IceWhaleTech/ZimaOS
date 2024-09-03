@@ -7,7 +7,7 @@
 [community-badge]: https://img.shields.io/badge/Contact-community-blue?style=flat-square
 
 <div align="center">
-<img src="./assets/zima.svg" width="100">
+<img src="./assets/zima.png" width="100">
 
 # ZimaOS Open Beta Program
 [![release][release-badge]][release]
