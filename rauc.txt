@@ -9,4 +9,4 @@ packages:
     architecture: amd64
 checksums: 1.2.4-beta1/checksums.txt
 code: Murjek
-background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.4-beta1/Hover%20background.jpg
+background: https://cdn.jsdelivr.net/gh/IceWhaleTech/ZimaOS@main/background/1.2/Hover%20background.jpg
