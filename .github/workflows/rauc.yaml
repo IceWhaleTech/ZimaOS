@@ -1,0 +1,27 @@
+name: Sync rauc.txt to Aliyun OSS
+
+on:
+  push:
+    branches:
+      - main  # 或者您想要触发同步的分支名称
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  sync-to-oss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Upload to oss
+        id: upload_to_oss
+        uses: tvrcgo/upload-to-oss@master
+        with:
+          key-id: ${{ secrets.OSS_KEY_ID }}
+          key-secret: ${{ secrets.OSS_KEY_SECRET }}
+          region: oss-cn-shanghai
+          bucket: casaos
+          assets: |
+            rauc.txt:/IceWhaleTech/zimaos-rauc/hdz-test/rauc.txt
