@@ -7,6 +7,6 @@ mirrors:
 packages:
   - path: /1.2.4-beta1/zimaos_zimacube-1.2.4-beta1.raucb
     architecture: amd64
-checksums: 1.2.4-beta1/checksums.txt
+checksums: /1.2.4-beta1/checksums.txt
 code: Murjek
 background: https://cdn.jsdelivr.net/gh/IceWhaleTech/ZimaOS@main/background/1.2/Hover%20background.jpg
