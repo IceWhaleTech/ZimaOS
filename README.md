@@ -9,13 +9,13 @@
 <div align="center">
 <img src="./assets/zima.png" width="100">
 
-# ZimaOS Free trial Program
+# ZimaOS Free Trial Program
 [![release][release-badge]][release]
 [![download][download-badge]][download]
 [![community][community-badge]][community]
 </div>
 
-Welcome to join the open beta program of ZimaOS. ZimaOS is evolved from CasaOS, and we have built a release version of ZimaOS for better hardware compatibility and update experience. It will perfectly adapt to the Zima series hardware and also be compatible with x86-64 systems with UEFI.
+Welcome to join the open free trial program of ZimaOS. ZimaOS is evolved from CasaOS, and we have built a release version of ZimaOS for better hardware compatibility and update experience. It will perfectly adapt to the Zima series hardware and also be compatible with x86-64 systems with UEFI.
 
 It is built using Buildroot and has stable OTA update functionality. Based on CasaOS, we have built a series of new applications. You can find the specific differences between it and CasaOS from the table below:
 
