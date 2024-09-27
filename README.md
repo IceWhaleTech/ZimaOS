@@ -9,7 +9,7 @@
 <div align="center">
 <img src="./assets/zima.png" width="100">
 
-# ZimaOS Open Beta Program
+# ZimaOS Public trial Program
 [![release][release-badge]][release]
 [![download][download-badge]][download]
 [![community][community-badge]][community]
