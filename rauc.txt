@@ -1,12 +1,12 @@
-version: 1.2.4-beta1
+version: v1.2.4
 release_notes: >
-  ## [1.2.4-beta1]\n### New\n- Folders can be assigned to multiple members when sharing folders using Samba.\n- Supports easy migration of media libraries to your RAID in Settings, such as Plex.\n### Improve\n- Support opening SSH in settings, no longer need to connect keyboard to device.\n- The AppStore hides apps whose CPU type is not supported.\n- Check the remaining space when downloading the update package.\n- Corrected the display in RAID situations, including RAID5 expansion, parity check, etc.\n- Uploading files in Files is faster, especially large numbers of small files.\n- Allow ZFS storage to run on ZimaOS @Brucio\n- Samba shares have faster response times and faster transfer speeds\n### Fixed\n- Fixed multiple security vulnerabilities.\n- GPU driver upgraded, some new GPU can be recognized.\n### Tips\n- If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members\n- [https://zimaboard.com/discord](https://zimaboard.com/discord)\n
+  ## [1.2.4]\n### New\n- Folders can be assigned to multiple members when sharing folders using Samba.\n- Supports easy migration of media libraries to your RAID in Settings, such as Plex.\n### Improve\n- Corrected the display in RAID situations, including RAID5 expansion, parity check, etc.\n- Uploading files in Files is faster, especially large numbers of small files.\n- Dragdrop upload and cancel upload in Files provide faster response and better experience.\n- Samba shares have faster response times and faster transfer speeds\n- Support opening SSH in settings, no longer need to connect keyboard to device.\n- The AppStore hides apps whose CPU type is not supported.\n- Check the remaining space when downloading the update package.\n### Fixed\n- Fixed multiple security vulnerabilities.\n- GPU driver upgraded, some new GPU can be recognized.\n- Fixed the issue where RAID5 expansion size was displayed incorrectly\n- Fixed the issue where changing sharing permissions would not take effect immediately.\n### Tips\n- If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members\n- [https://zimaboard.com/discord](https://zimaboard.com/discord)\n
 mirrors:
   - https://github.com/IceWhaleTech/ZimaOS/releases/download
   - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download
 packages:
-  - path: /1.2.4-beta1/zimaos_zimacube-1.2.4-beta1.raucb
+  - path: /1.2.4/zimaos_zimacube-1.2.4.raucb
     architecture: amd64
-checksums: /1.2.4-beta1/checksums.txt
+checksums: /1.2.4/checksums.txt
 code: Murjek
-background: https://cdn.jsdelivr.net/gh/IceWhaleTech/ZimaOS@main/background/1.2/Hover%20background.jpg
+background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.4/Hover%20background.jpg
