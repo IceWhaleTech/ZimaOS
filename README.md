@@ -27,7 +27,7 @@ It is built using Buildroot and has stable OTA update functionality. Based on Ca
 ## Discussion
 
 This project is just for releasing test images, if you want to discuss related issues, feel free to go to our forum.
-[Icewhale Communit](https://icewhale.community/t/welcome-to-the-zimaos-open-beta-program/295) 
+[Icewhale Community](https://icewhale.community/t/welcome-to-the-zimaos-open-beta-program/295) 
 
 ## Distribution Features
 
