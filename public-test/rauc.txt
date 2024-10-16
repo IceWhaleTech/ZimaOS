@@ -1,12 +1,12 @@
-version: v1.2.5-beta1
+version: v1.2.5-beta2
 release_notes: >
-  ## [1.2.5-beta1]\n### New\n- Added "Share via link" function, which can generate file links and share files on ZimaOS.\n- Added Disk Standby option, which can hibernate the hard disk to save energy and increase life.\n- Added language options to support Croatian, French, German, Greek, Italian, Korean, Swedish.\n- Files now recognizes USB-connected HFS MacOS hard drives.\n- [Beta version only] Added mobile phone backup function, using a USB cable to connect the phone and ZimaCube to back up the entire phone.\n### Improve\n- ZVM now supports installation images in .img, .qcow2, .vmdk, and .vdi formats.\n- Modified ssh function, ssh switch and web terminal are both available.\n- Improved the display speed of the app list on the dashboard.\n- Improved the prompt for creating RAID for hard disks that are already in use.\n- Reduced the memory occupied by system services.\n### Fixed\n- The modification time of the new folder in Files is set to the current time of ZimaCube.\n### Tips\n- If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members\n- [https://zimaboard.com/discord](https://zimaboard.com/discord)\n
+  ## [1.2.5-beta2]\n### New\n- Added "Share via link" function, which can generate file links and share files on ZimaOS.\n- Added Disk Standby option, which can hibernate the hard disk to save energy and increase life.\n- Added language options to support Croatian, French, German, Greek, Italian, Korean, Swedish.\n- Files now recognizes USB-connected HFS MacOS hard drives.\n- [Beta version only] Added mobile phone backup function, using a USB cable to connect the phone and ZimaCube to back up the entire phone.\n### Improve\n- ZVM now supports installation images in .img, .qcow2, .vmdk, and .vdi formats.\n- Modified ssh function, ssh switch and web terminal are both available.\n- Improved the display speed of the app list on the dashboard.\n- Improved the prompt for creating RAID for hard disks that are already in use.\n- Reduced the memory occupied by system services.\n### Fixed\n- The modification time of the new folder in Files is set to the current time of ZimaCube.\n### Tips\n- If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members\n- [https://zimaboard.com/discord](https://zimaboard.com/discord)\n
 mirrors:
   - https://github.com/IceWhaleTech/ZimaOS/releases/download
   - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download
 packages:
-  - path: /1.2.5-beta1/zimaos_zimacube-1.2.5-beta1.raucb
+  - path: /1.2.5-beta2/zimaos_zimacube-1.2.5-beta2.raucb
     architecture: amd64
-checksums: /1.2.5-beta1/checksums.txt
+checksums: /1.2.5-beta2/checksums.txt
 code: Murjek
-background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.5-beta1/Hover%20background.jpg
+background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.5-beta2/Hover%20background.jpg
