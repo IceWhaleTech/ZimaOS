@@ -19,10 +19,6 @@ Welcome to join the public evaluation program of ZimaOS. ZimaOS is evolved from 
 
 It is built using Buildroot and has stable OTA update functionality. Based on CasaOS, we have built a series of new applications. You can find the specific differences between it and CasaOS from the table below:
 
-<div align="center">
-
-   <img src="./assets/feature.png" width="640" >
-</div>
 
 ## Discussion
 
