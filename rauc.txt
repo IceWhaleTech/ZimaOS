@@ -1,12 +1,12 @@
-version: v1.3.0-1
+version: v1.3.0-2
 release_notes: >
-  ## [1.3.0-1]\n### Fixed\n- Storage disappears updated on some machines\n- Disk hibernation policy failure after reboot issue\n### Tips\n- If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members\n- [https://zimaboard.com/discord](https://zimaboard.com/discord)\n
+  ## [1.3.0-2]\n### Fixed\n- Storage disappears updated on some ZimaCube Pro machines\n### Tips\n- If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members\n- [https://zimaboard.com/discord](https://zimaboard.com/discord)\n
 mirrors:
   - https://github.com/IceWhaleTech/ZimaOS/releases/download
   - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download
 packages:
-  - path: /1.3.0-1/zimaos_zimacube-1.3.0-1.raucb
+  - path: /1.3.0-2/zimaos_zimacube-1.3.0-2.raucb
     architecture: amd64
-checksums: /1.3.0-1/checksums.txt
+checksums: /1.3.0-2/checksums.txt
 code: Murjek
-background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.3.0-1/Hover%20background.jpg
+background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.3.0-2/Hover%20background.jpg
