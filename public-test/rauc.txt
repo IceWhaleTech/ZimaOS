@@ -1,12 +1,12 @@
-version: v1.3.1
+version: v1.3.1-1
 release_notes: >
-  ## [1.3.1]\n## Brand New\n- New search function in Files, which supports searching file names and contents\n- New Trash Bin in Files, which automatically empties after 30 days\n## New\n- Files have improved the process and speed of uploading files.\n- Added advanced settings for network ports in Settings, including IP binding\n### Fixed\n- Reduced the possibility of being awakened by Fearless after the hard disk is Standby\n- Solved the problem that the correct password will be locked after multiple password errors\n- Fixed the problem that the file name cannot be opened when there is ''''\n- Removed the prompt that the new disk is available even if the disk has been unplugged\n- Adjusted the UI details of the Share via link page to increase usability\n- ZVM is case-compatible. Modify default configuration parameters to improve compatibility\n- Fixed the problem of confusing system disk display positions caused by different device types\n### Tips\n- If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members\n- [https://zimaboard.com/discord](https://zimaboard.com/discord)\n
+  ## [1.3.1-1]\n### Fixed\n- Fixed an issue where network settings could not be opened properly when the gateway was unavailable.\n- Optimized the search service to reduce high CPU usage.\n- Resolved a compatibility issue where SMB file creation was not functioning on iPads.\n\n## [1.3.1]\n### Brand New\n- New search function in Files, which supports searching file names and contents\n- New Trash Bin in Files, which automatically empties after 30 days\n### New\n- Files have improved the process and speed of uploading files.\n- Added advanced settings for network ports in Settings, including IP binding\n### Fixed\n- Reduced the possibility of being awakened by Fearless after the hard disk is Standby\n- Solved the problem that the correct password will be locked after multiple password errors\n- Fixed the problem that the file name cannot be opened when there is ''''\n- Removed the prompt that the new disk is available even if the disk has been unplugged\n- Adjusted the UI details of the Share via link page to increase usability\n- ZVM is case-compatible. Modify default configuration parameters to improve compatibility\n- Fixed the problem of confusing system disk display positions caused by different device types\n### Tips\n- If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members\n- [https://zimaboard.com/discord](https://zimaboard.com/discord)\n
 mirrors:
   - https://github.com/IceWhaleTech/ZimaOS/releases/download
   - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download
 packages:
-  - path: /1.3.1/zimaos_zimacube-1.3.1.raucb
+  - path: /1.3.1-1/zimaos_zimacube-1.3.1-1.raucb
     architecture: amd64
-checksums: /1.3.1/checksums.txt
+checksums: /1.3.1-1/checksums.txt
 code: Murjek
-background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.3.1/Hover%20background.jpg
+background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.3.1-1/Hover%20background.jpg
