@@ -88,7 +88,7 @@ sudo apt install libfuse2
    - If there are multiple links below, make sure to select the correct link for your version of Generic x86-64.
 
      ```text
-     https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/latest/zimaos_zimacube.img.xz
+     https://github.com/IceWhaleTech/ZimaOS/releases/download/1.3.1-1/zimaos_zimacube-1.3.1-1.img.xz
      ```
 
    Select and copy the URL or use the “copy” button that appear when you hover it
