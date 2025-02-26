@@ -1,0 +1,25 @@
+name: "[Beta Only] Bug Report"
+description: ZimaOS Beta Testing specific bug report form.
+title: "[Beta][Bug] "
+labels: ["beta", "bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+        > If you haven't joined ZimaOS Beta Team yet.
+        > Please join first on [Discord](https://discord.gg/ymEJ9KhK) to be updated on the Beta test plan and test scope.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If applicable, add screenshots to help explain your problem.
+      placeholder: Screenshots would be very helpful!
