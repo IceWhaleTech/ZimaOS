@@ -1,12 +1,12 @@
-version: v1.3.2-1
+version: v1.3.3-beta1
 release_notes: >
-  ## [1.3.2-1]\n### Fixed\n- Fixed the unexpected restart issue of ZimaOS main service.\n- Fixed the mounting failure when storage space is named 'storage'.\n- Fixed the probabilistic boot failure on SATA drives.\n\n## [1.3.2]\n### New\n- Allow setting as Time Machine when sharing in Samba\n- Files improves the experience of copying files, including asking to overwrite and a more stable process\n- DLNA is allowed to set a Friendly name and Media Path in developer mode\n- The long-term progress of RAID, parity check, rebuild , etc. is clearly displayed\n- Click on the hard disk to view the information, including a detailed display of the hard disk health in the Storage settings\n- The IP address of the Zima Client remote access is newly displayed in the network settings\n### Fixed\n- Fixed the issue where SSH was closed after the device was rebooted when SSH was open, and improved the security of ttyd\n- It is easier to automatically discover ZimaCube in the file browser "Network" on Windows and Mac\n- When creating a Samba share, submit requests faster\n- Open some Office docs to improve speed in Files\n- Reduce unnecessary read&write, extend the life of the HDDs, and improve Disk Standby\n- Fixed iPhone/iPad could only read but not write in the SMB share on ZimaOS\n### Tips\n- If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members\n- [https://zimaboard.com/discord](https://zimaboard.com/discord)\n
+  ## [1.3.3-beta1]\n### New\n- Added Russian and Portuguese language options\n- Optimized RAID functionality, including creation progress, parity check duration display, and disk details.\n- Added "remote access" IP address display in the network\n- Added btop performance monitoring panel in the widget\n### Fixed\n- Fixed ZMV Windows images could not be downloaded by adjusting related policies\n- Standardized storage capacity display rules\n- Fixed some decompression errors\n- Improved the performance of the Recycle Bin\n- Fixed several issues on the settings panel interface\n### Changed\n- Improved virtual scrolling for smoother performance, faster browsing, and reduced memory usage with large datasets.\n- Enhanced SMB creation by adding administrators by default and providing clearer success notifications.\n### Tips\n- If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members\n- [https://zimaboard.com/discord](https://zimaboard.com/discord)\n
 mirrors:
   - https://github.com/IceWhaleTech/ZimaOS/releases/download
   - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download
 packages:
-  - path: /1.3.2-1/zimaos_zimacube-1.3.2-1.raucb
+  - path: /1.3.3-beta1/zimaos_zimacube-1.3.3-beta1.raucb
     architecture: amd64
-checksums: /1.3.2-1/checksums.txt
+checksums: /1.3.3-beta1/checksums.txt
 code: Murjek
-background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.3.2-1/Hover%20background.jpg
+background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.3.3-beta1/Hover%20background.jpg
