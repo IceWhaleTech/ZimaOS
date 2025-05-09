@@ -1,0 +1,18 @@
+## [1.4.1-beta1]
+### Congratulations! 
+#### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 27K
+---
+### New
+- 새로운 예정된 셧다운 기능. 종료 버튼에서 종료 시간을 설정할 수 있습니다.
+- 파일 폴더 크기 통계 추가, 폴더를 선택하고 오른쪽 상단에서 "정보 가져 오기"를 클릭하여 크기를 계산합니다.
+- 파일에는 새 왼쪽 열 및 주소 막대 설계가 있으며 별 폴더를 추가하기 위해 폴더를 마우스 오른쪽 단추로 클릭합니다.
+### Fixed
+- 백업 작업 문제가 사라지거나 제 시간에 표시되지 않음을 수정했습니다.
+- 시스템에서 zimaboard2에 대한 적응 된 디스플레이
+- 연결 모드 변경의 응답 시간이 단축되었습니다
+- 대시 보드 알림의 적시성과 안정성을 향상 시켰습니다
+- 파일은 다수의 파일의 모든 폴더를 선택하는 성능을 최적화했습니다.
+- 파일은 감압의 성공률을 최적화하고 감압 프로세스를 최적화했습니다.
+### Tips
+- 소프트웨어 문제를 발견하면 불화에 가입하고 27,000 명의 ZIMA 커뮤니티 회원으로부터 지원을받을 수 있습니다.
+- <a href = "https://zimaboard.com/discord"target = "_ blank"style = "color : blue"> https://zimaboard.com/discord </a>
