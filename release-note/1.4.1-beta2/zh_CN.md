@@ -2,8 +2,9 @@
 ### Fixed
 - 修复ota更新若干问题
 - 修复应用加载不及时的问题
-- 修复网络配置切换时,dns为空值或者"no"的问题
+- 修复网络配置切换时，DNS为空值或者"no"的问题
 - 修复不同设备适配问题
+- 修复弱网环境下文件上传完成后出现tmp的问题
 ---
 
 ## [1.4.1-beta1]
@@ -22,5 +23,5 @@
 - Files优化了大量文件的文件夹全选时的性能
 - Files优化解压的成功率，优化了解压流程
 ### Tips
-- If you find any software problems, welcome to join the Discord and get support from 27,000 Zima community members
+- 如果你发现了任何软件问题，欢迎加入Discord社区，获得 27,000 名Zima社区成员的支持
 - <a href="https://zimaboard.com/discord" target="_blank" style="color:blue">https://zimaboard.com/discord</a>
