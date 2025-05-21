@@ -1,12 +1,12 @@
-version: v1.4.1-beta1
+version: v1.4.1
 release_notes: >
-  ## [1.4.1-beta1]\n### Congratulations! \n#### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 27K\n---\n### New\n- New scheduled shutdown function. You can set the shutdown time on the shutdown button\n- Files adds folder size statistics, select the folder and click "Get Info" in the upper right corner to count the size\n- Files has a new left column and address bar design, and right-click folders to add star folders\n### Fixed\n- Fixed the issue of backup tasks disappearing or not being displayed in time\n- Adapted display for Zimaboard2 in the system\n- Shortened the response time of connection mode change\n- Improved the timeliness and stability of dashboard notifications\n- Files optimized the performance of selecting all folders of a large number of files\n- Files optimized the success rate of decompression and optimized the decompression process\n### Tips\n- If you find any software problems, welcome to join the Discord and get support from 27,000 Zima community members\n- <a href="https://zimaboard.com/discord" target="_blank" style="color:blue">https://zimaboard.com/discord</a>\n
+  ## [1.4.1]\n### Congratulations! \n#### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 27K\n---\n### New\n- New scheduled shutdown function. You can set the shutdown time on the shutdown button\n- Files adds folder size statistics, select the folder and click "Get Info" in the upper right corner to count the size\n- Files has a new left column and address bar design, and right-click folders to add star folders\n### Fixed\n- Fixed the issue of backup tasks disappearing or not being displayed in time\n- Adapted display for Zimaboard2 in the system\n- Shortened the response time of connection mode change\n- Improved the timeliness and stability of dashboard notifications\n- Files optimized the performance of selecting all folders of a large number of files\n- Files optimized the success rate of decompression and optimized the decompression process\n- Fixed the issue in Files where uploaded files appeared as tmp files in weak network conditions\n- Optimized resource usage for applications\n- Fixed the issue where DNS was empty or displayed as "no" when switching network configurations\n- Resolved compatibility issues across different devices\n- Fixed the abnormal disk selection display during RAID expansion\n- Addressed the issue of prolonged shutdown times\n- Fixed abnormal memory usage by the search function\n### Tips\n- If you find any software problems, welcome to join the Discord and get support from 27,000 Zima community members\n- <a href="https://zimaboard.com/discord" target="_blank" style="color:blue">https://zimaboard.com/discord</a>\n
 mirrors:
   - https://github.com/IceWhaleTech/ZimaOS/releases/download
   - https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download
 packages:
-  - path: /1.4.1-beta1/zimaos_zimacube-1.4.1-beta1.raucb
+  - path: /1.4.1/zimaos_zimacube-1.4.1.raucb
     architecture: amd64
-checksums: /1.4.1-beta1/checksums.txt
+checksums: /1.4.1/checksums.txt
 code: Murjek
-background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.4.1-beta1/Hover%20background.jpg
+background: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.4.1/Hover%20background.jpg
