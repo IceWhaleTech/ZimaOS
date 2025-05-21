@@ -1,12 +1,4 @@
-## [1.4.1-beta2]
-### Fixed
-- Fixed several issues with OTA updates
-- Fixed the issue of delayed application loading
-- Fixed the issue where DNS is empty or set to "no" during network configuration switching
-- Fixed compatibility issues with different devices
----
-
-## [1.4.1-beta1]
+## [1.4.1]
 ### Congratulations! 
 #### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 27K
 ---
@@ -21,6 +13,13 @@
 - Improved the timeliness and stability of dashboard notifications
 - Files optimized the performance of selecting all folders of a large number of files
 - Files optimized the success rate of decompression and optimized the decompression process
+- Fixed the issue in Files where uploaded files appeared as tmp files in weak network conditions
+- Optimized resource usage for applications
+- Fixed the issue where DNS was empty or displayed as "no" when switching network configurations
+- Resolved compatibility issues across different devices
+- Fixed the abnormal disk selection display during RAID expansion
+- Addressed the issue of prolonged shutdown times
+- Fixed abnormal memory usage by the search function
 ### Tips
 - If you find any software problems, welcome to join the Discord and get support from 27,000 Zima community members
 - <a href="https://zimaboard.com/discord" target="_blank" style="color:blue">https://zimaboard.com/discord</a>

@@ -1,12 +1,4 @@
-## [1.4.1-beta2]
-### Fixed
-- Mehrere Probleme mit OTA -Updates behoben
-- Das Problem einer verzögerten Anwendungsbelastung behoben
-- Das Problem behoben
-- Probleme mit unterschiedlichen Geräten behobene Kompatibilitätsprobleme
----
-
-## [1.4.1-beta1]
+## [1.4.1]
 ### Congratulations! 
 #### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 27K
 ---
@@ -21,6 +13,13 @@
 - Verbesserte die Aktualität und Stabilität von Dashboard -Benachrichtigungen
 - Dateien optimierten die Leistung der Auswahl aller Ordner einer großen Anzahl von Dateien
 - Dateien optimierten die Erfolgsrate der Dekompression und optimierten den Dekompressionsprozess
+- Das Problem wurde in Dateien behoben, in denen hochgeladene Dateien in schwachen Netzwerkbedingungen als TMP -Dateien angezeigt wurden
+- Optimierte Ressourcenverbrauch für Anwendungen
+- Das Problem behoben
+- Aufgelöste Kompatibilitätsprobleme auf verschiedenen Geräten
+- Die abnormale Disk -Auswahlanzeige während der RAID -Expansion fixierte
+- Befasste sich mit dem Problem der längeren Abschaltzeiten
+- Feste abnormale Speicherverwendung durch die Suchfunktion
 ### Tips
 - Wenn Sie Softwareprobleme finden, werden Sie willkommen, sich der Zwietracht anzuschließen und von 27.000 Zima -Community -Mitgliedern Unterstützung zu erhalten
 - <a href = "https://zimaboard.com/discord" target = "_ leer" style = "color: blau"> https://zimaboard.com/discord </a>

@@ -1,12 +1,4 @@
-## [1.4.1-beta2]
-### Fixed
-- Fixade flera problem med OTA -uppdateringar
-- Fixade frågan om försenad applikationsbelastning
-- Fixade problemet där DNS är tomt eller inställt på "Nej" under nätverkskonfigurationsomkopplaren
-- Fasta kompatibilitetsproblem med olika enheter
----
-
-## [1.4.1-beta1]
+## [1.4.1]
 ### Congratulations! 
 #### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 27K
 ---
@@ -21,6 +13,13 @@
 - Förbättrade instrumentpanelens aktualitet och stabilitet
 - Filer optimerade prestandan för att välja alla mappar i ett stort antal filer
 - Filer optimerade framgångsgraden för dekomprimering och optimerade dekomprimeringsprocessen
+- Fixade problemet i filer där uppladdade filer dök upp som TMP -filer i svaga nätverksförhållanden
+- Optimerad resursanvändning för applikationer
+- Fixade problemet där DNS var tomt eller visas som "nej" när du byter nätverkskonfigurationer
+- Löst kompatibilitetsproblem över olika enheter
+- Fixade den onormala skivvalsvisningen under RAID -expansion
+- Tog upp frågan om långvariga avstängningstider
+- Fast onormal minnesanvändning av sökfunktionen
 ### Tips
 - Om du hittar några programvaruproblem, välkommen att gå med i oenighet och få stöd från 27 000 Zima -medlemmar
-- <a href = "https://zimaboard.com/discord" target = "_ blank" style = "color: blue"> https://zimaboard.com/discord </a>
+- <a href = "https://zimaboard.com/discord" Target = "_ blank" style = "Color: Blue"> https://zimaboard.com/discord </a>

@@ -1,12 +1,4 @@
-## [1.4.1-beta2]
-### Fixed
-- Risolto diversi problemi con gli aggiornamenti OTA
-- Risolto il problema del caricamento ritardato dell'applicazione
-- Risolto il problema in cui DNS è vuoto o impostato su "NO" durante la commutazione della configurazione della rete
-- Problemi di compatibilità fissi con dispositivi diversi
----
-
-## [1.4.1-beta1]
+## [1.4.1]
 ### Congratulations! 
 #### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 27K
 ---
@@ -21,6 +13,13 @@
 - Miglioramento della tempestività e della stabilità delle notifiche del cruscotto
 - I file hanno ottimizzato le prestazioni di selezione di tutte le cartelle di un gran numero di file
 - I file hanno ottimizzato il tasso di successo di decompressione e ottimizzato il processo di decompressione
+- Risolto il problema nei file in cui i file caricati sono apparsi come file TMP in condizioni di rete deboli
+- Utilizzo ottimizzato delle risorse per applicazioni
+- Risolto il problema in cui DNS era vuoto o visualizzato come "no" durante la commutazione delle configurazioni di rete
+- Problemi di compatibilità risolti su diversi dispositivi
+- Risolto il display di selezione del disco anormale durante l'espansione RAID
+- Affrontato il problema dei tempi di arresto prolungati
+- Risolto l'utilizzo della memoria anormale dalla funzione di ricerca
 ### Tips
 - Se trovi problemi di software, benvenuti a unirti alla discordia e ottieni supporto da 27.000 membri della comunità Zima
 - <a href = "https://zimaboard.com/discord" target = "_ blank" style = "color: blue"> https://zimaboard.com/discord </a>
