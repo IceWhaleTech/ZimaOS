@@ -1,7 +1,4 @@
 ## [1.4.2-beta1]
-### Congratulations! 
-#### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 28K
----
 ### New
 - Nova rezervna funkcija sada je dostupna, podržavajući sigurnosnu kopiju između mrežnog diska, LAN pohrane, USB pohrane i ZIMA uređaja
 - Prilikom izrade prostora za pohranu, JBOD i RAID6 su sada podržani, a dostupno je novo sučelje za kreiranje pohrane

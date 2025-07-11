@@ -1,7 +1,4 @@
 ## [1.4.2-beta1]
-### Congratulations! 
-#### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 28K
----
 ### New
 - Die neue Sicherungsfunktion ist ab sofort verfügbar und unterstützt die Sicherung zwischen Netzwerkdiskette, LAN -Speicher, USB -Speicher und Zima -Geräten
 - Beim Erstellen von Speicherplatz werden JBOD und RAID6 jetzt unterstützt, und eine neue Schnittstelle zur Erstellung von Speichererstellungen ist verfügbar

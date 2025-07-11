@@ -1,7 +1,4 @@
 ## [1.4.2-beta1]
-### Congratulations! 
-#### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 28K
----
 ### New
 - Den nye sikkerhetskopifunksjonen er nå tilgjengelig, og støtter sikkerhetskopiering mellom nettverksdisk, LAN -lagring, USB -lagring og Zima -enheter
 - Når du oppretter lagringsplass, støttes nå JBOD og RAID6, og et nytt lagringsopprettingsgrensesnitt er tilgjengelig

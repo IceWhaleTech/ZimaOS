@@ -1,7 +1,4 @@
 ## [1.4.2-beta1]
-### Congratulations! 
-#### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 28K
----
 ### New
 - 新しいバックアップ機能が利用可能になり、ネットワークディスク、LANストレージ、USBストレージ、Zimaデバイス間のバックアップをサポートします
 - ストレージスペースを作成すると、JBODとRAID6がサポートされ、新しいストレージ作成インターフェイスが利用可能になりました

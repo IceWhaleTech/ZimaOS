@@ -1,7 +1,4 @@
 ## [1.4.2-beta1]
-### Congratulations! 
-#### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 28K
----
 ### New
 - La nouvelle fonction de sauvegarde est désormais disponible, prenant en charge la sauvegarde entre le disque réseau, le stockage LAN, le stockage USB et les appareils Zima
 - Lors de la création d'espace de stockage, JBOD et RAID6 sont maintenant pris en charge et une nouvelle interface de création de stockage est disponible

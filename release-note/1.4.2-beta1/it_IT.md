@@ -1,7 +1,4 @@
 ## [1.4.2-beta1]
-### Congratulations! 
-#### ZimaOS has been downloaded 300K times, and the number of Discord users has reached 28K
----
 ### New
 - La nuova funzione di backup è ora disponibile, supportando il backup tra dispositivi di archiviazione di rete, archiviazione LAN, archiviazione USB e ZIMA
 - Quando si creano spazio di archiviazione, JBOD e RAID6 sono ora supportati e è disponibile una nuova interfaccia di creazione di archiviazione
