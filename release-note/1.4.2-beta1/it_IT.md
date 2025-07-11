@@ -6,7 +6,7 @@
 - I suggerimenti vengono visualizzati quando l'app viene aperta e alcune app richiederanno la password dell'account
 - Supportare i certificati SSL per una migliore sicurezza dell'accesso
 ### Fixed
-- Risolto il problema in cui l'interfaccia mostra ancora l'espansione in corso dopo il completamento dell'espansione?
+- Risolto il problema in cui l'interfaccia mostra ancora l'espansione in corso dopo il completamento dell'espansione
 - Applicazione Download Ottimizzazione e correzioni
 - Proxy intelligente ad alta disponibilità: commuta e tentativi automaticamente proxy di specchio trasparente senza modificare la configurazione, consentendo un'immagine regolare che tira in una rete diversa - ambienti e migliorando significativamente la disponibilità e scarica le tariffe di successo per gli utenti globali
 - Processo di download delle applicazioni ottimizzato e esperienza di download complessiva migliorata

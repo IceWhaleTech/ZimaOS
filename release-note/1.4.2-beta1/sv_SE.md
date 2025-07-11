@@ -6,7 +6,7 @@
 - Tips visas när appen öppnas och vissa appar uppmanar kontolösenordet
 - Stöd SSL -certifikat för bättre åtkomstsäkerhet
 ### Fixed
-- Fixat problemet där gränssnittet fortfarande visar pågående expansion efter att utvidgningen är klar?
+- Fixat problemet där gränssnittet fortfarande visar pågående expansion efter att utvidgningen är klar
 - Applikation Nedladdning Optimering och fixar
 - Intelligent proxy med hög tillgänglighet: växlar och försöker automatiskt transparenta spegelproxyer utan att ändra konfiguration, vilket möjliggör smidig bild att dra i olika nätverk - miljöer och avsevärt förbättra tillgängligheten och ladda ner framgångsgrader för globala användare
 - Optimerad program för nedladdning av applikationer och förbättrad övergripande nedladdningsupplevelse

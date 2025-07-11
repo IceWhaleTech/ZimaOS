@@ -6,7 +6,7 @@
 - Savjeti se prikazuju kada se aplikacija otvori, a neke će aplikacije zatražiti lozinku za račun
 - Podržite SSL certifikate za sigurnost boljeg pristupa
 ### Fixed
-- Riješen je problem gdje sučelje još uvijek pokazuje širenje u tijeku nakon završetka širenja?
+- Riješen je problem gdje sučelje još uvijek pokazuje širenje u tijeku nakon završetka širenja
 - Aplikacija preuzmite optimizaciju i ispravke
 - Inteligentni proxy visoke dostupnosti: automatski prebacuje i pokušava proxyrentne proxy -a bez promjene konfiguracije, omogućavajući glatko povlačenje slike u različitim mrežnim okruženjima i značajno poboljšanje dostupnosti i preuzimanja stope uspjeha za globalne korisnike za globalne korisnike
 - Optimizirani postupak preuzimanja aplikacija i poboljšano cjelokupno iskustvo preuzimanja

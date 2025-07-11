@@ -6,7 +6,7 @@
 - Tipps werden angezeigt, wenn die App geöffnet wird, und einige Apps fordern das Kontokennwort auf
 - Unterstützen Sie SSL -Zertifikate für einen besseren Zugriffssicherheit
 ### Fixed
-- Das Problem behoben, in dem die Schnittstelle nach Abschluss der Expansion immer noch die Expansion in Arbeit zeigt?
+- Das Problem behoben, in dem die Schnittstelle nach Abschluss der Expansion immer noch die Expansion in Arbeit zeigt
 - Anwendungs ​​-Download -Optimierung und Fixes
 - Intelligente Proxy mit Hochverfügbarkeit: Schaltet automatisch transparente Spiegelproxies, ohne die Konfiguration zu ändern, das reibungslose Image in verschiedenen Netzwerken - Umgebungen zu ermöglichen und die Verfügbarkeit erheblich zu verbessern und Erfolgsraten für globale Benutzer herunterzuladen
 - Optimierter Anwendungs ​​-Download -Prozess und verbesserte Gesamtdownloaderfahrung

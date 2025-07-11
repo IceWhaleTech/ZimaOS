@@ -6,7 +6,7 @@
 - Tips vises når appen åpnes, og noen apper vil be kontopassordet
 - Støtt SSL -sertifikater for bedre tilgangssikkerhet
 ### Fixed
-- Rettet problemet der grensesnittet fremdeles viser utvidelse som pågår etter at utvidelsen er fullført?
+- Rettet problemet der grensesnittet fremdeles viser utvidelse som pågår etter at utvidelsen er fullført
 - Applikasjon nedlasting optimalisering og fikser
 - Intelligent proxy med høy tilgjengelighet: automatisk bytter og prøver gjennomsiktig
 - Optimalisert nedlastingsprosess for applikasjoner og forbedret total nedlastingsopplevelse

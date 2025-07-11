@@ -6,7 +6,7 @@
 - Tips are displayed when the App is opened, and some Apps will prompt the account password
 - Support SSL certificates for better access security
 ### Fixed
-- Fixed the issue where the interface still shows expansion in progress after expansion is completed?
+- Fixed the issue where the interface still shows expansion in progress after expansion is completed
 - Application download optimization and fixes
 - Intelligent High-Availability Proxy: Automatically switches and attempts transparent mirror proxies without changing configuration, enabling smooth image pulling in different network - environments and significantly improving availability and download success rates for global users
 - Optimized application download process and improved overall download experience

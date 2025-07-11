@@ -6,7 +6,7 @@
 - Des conseils sont affichés lors de l'ouverture de l'application, et certaines applications inviteront le mot de passe du compte
 - Prise en charge des certificats SSL pour une meilleure sécurité d'accès
 ### Fixed
-- Correction du problème où l'interface montre toujours l'expansion en cours une fois l'expansion terminée?
+- Correction du problème où l'interface montre toujours l'expansion en cours une fois l'expansion terminée
 - Optimisation et correctifs de téléchargement d'application
 - Proxy intelligent à haute disponibilité: change automatiquement et tente des proxys de miroir transparents sans modifier la configuration, permettant à l'image lisse de tirer dans différents environnements de réseau et d'améliorer considérablement la disponibilité et de télécharger des taux de réussite pour les utilisateurs mondiaux
 - Processus de téléchargement de l'application optimisée et amélioration de l'expérience de téléchargement global

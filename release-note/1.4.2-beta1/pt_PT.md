@@ -6,7 +6,7 @@
 - As dicas são exibidas quando o aplicativo é aberto e alguns aplicativos solicitarão a senha da conta
 - Apoie os certificados SSL para melhorar a segurança de acesso
 ### Fixed
-- Corrigido o problema em que a interface ainda mostra a expansão em andamento após a conclusão da expansão?
+- Corrigido o problema em que a interface ainda mostra a expansão em andamento após a conclusão da expansão
 - Otimização e correções de download de aplicativos
 - Proxy inteligente de alta disponibilidade: alterna e tenta automaticamente proxies de espelho transparentes sem alterar a configuração, permitindo a extração de imagem suave em diferentes ambientes de rede e melhorando significativamente a disponibilidade e baixar taxas de sucesso para usuários globais
 - Processo de download de aplicativos otimizado e experiência geral de download geral
