@@ -23,7 +23,7 @@
 - Fixed cloud drive mounting failures or display issues after mounting
 - Issue with inability to unmount cloud drives
 - Fixed ZimaOS-HD not being properly shared after initialization
-- Fixed inability to select new hard drives in the same disk slots when restoring RAID
+- Fixed inability to select new hard drives in the same disk slots when recovering RAID
 - Fixed the issue where files containing illegal characters could not be uploaded when macOS mounts ZimaOS via SMB.
 - Optimized character encoding handling mechanism, now supports normal uploading of files containing special characters.
 ### Tips
