@@ -13,6 +13,7 @@
 [![release][release-badge]][release]
 [![download][download-badge]][download]
 [![community][community-badge]][community]
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ZimaSpace?style=flat-square&logo=X&labelColor=555&color=555&link=http%3A%2F%2Fbit.ly%2F3J3P03Q)
 </div>
 
 Welcome to join the public evaluation program of ZimaOS. ZimaOS is evolved from CasaOS, and we have built a release version of ZimaOS for better hardware compatibility and update experience. It will perfectly adapt to the Zima series hardware and also be compatible with x86-64 systems with UEFI.
