@@ -15,7 +15,10 @@
 [![community][community-badge]][community]
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ZimaSpace?style=flat-square&logo=X&label=Contact%20Us%20%40%20ZimaSpace&labelColor=555&color=555&link=http%3A%2F%2Fbit.ly%2F3J3P03Q)](http://bit.ly/3J3P03Q)
-[![Facebook  Follow](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logoColor=fff&label=ZimaSpace&labelColor=555&color=162453)](http://bit.ly/4mvPMoN)
+[![Facebook  Follow](https://img.shields.io/badge/ZimaSpace-1877F2?style=flat-square&logo=Facebook&logoColor=fff&label=Contact%20Us&labelColor=555&color=162453)](http://bit.ly/4mvPMoN)
+
+
+
 </div>
 
 Welcome to join the public evaluation program of ZimaOS. ZimaOS is evolved from CasaOS, and we have built a release version of ZimaOS for better hardware compatibility and update experience. It will perfectly adapt to the Zima series hardware and also be compatible with x86-64 systems with UEFI.
