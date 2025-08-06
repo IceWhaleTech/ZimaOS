@@ -14,7 +14,7 @@
 [![download][download-badge]][download]
 [![community][community-badge]][community]
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ZimaSpace?style=flat-square&logo=X&labelColor=555&color=555&link=http%3A%2F%2Fbit.ly%2F3J3P03Q)](http://bit.ly/3J3P03Q)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ZimaSpace?style=flat-square&logo=X&label=Contact%20Us%20%40%20ZimaSpace&labelColor=555&color=555&link=http%3A%2F%2Fbit.ly%2F3J3P03Q)](http://bit.ly/3J3P03Q)
 [![Facebook  Follow](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logoColor=fff&label=ZimaSpace&labelColor=555&color=162453)](http://bit.ly/4mvPMoN)
 </div>
 
