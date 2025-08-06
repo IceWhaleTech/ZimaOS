@@ -4,7 +4,7 @@
 [download]: https://github.com/IceWhaleTech/zimaos-rauc/releases
 [download-badge]: https://img.shields.io/github/downloads/IceWhaleTech/zimaos-rauc/total?style=flat-square
 [community]: https://icewhale.community/t/welcome-to-the-zimaos-open-beta-program/295
-[community-badge]: https://img.shields.io/badge/Contact-community-blue?style=flat-square
+[community-badge]: https://img.shields.io/badge/Community-Forum-Blue?style=flat-square
 
 <div align="center">
 <img src="./assets/20241126-153324.png" width="100">
