@@ -1,16 +1,17 @@
 ## [1.4.3]
 ### Fixed
-- Fixed application download progress bar stuttering
-- Fixed image download deadlock on identical layers
-- Fixed application status display errors around restart
-- Fixed application redirect failure after startup
-- Fixed inaccurate application status feedback
-- Fixed backup progress bar inaccuracy
-- Fixed large file backup chunking errors
-- Fixed USB backup source display issues
-- Fixed version log retrieval after ZimaOS updates
-- Fixed message queue reconnection failure
-- Fixed login page loading when disk is full
+- 修復應用程式下載進度條卡頓問題
+- 修復鏡像下載時相同層死鎖導致下載中斷
+- 修復系統重啟前後應用啟停狀態顯示錯誤
+- 修復應用啟動後無法正常跳轉
+- 修復應用啟停後狀態回饋不準確
+- 修復備份進度條顯示不精確
+- 修復備份大檔案時分塊處理錯誤
+- 修復USB備份源資訊顯示錯亂
+- 修復ZimaOS版本更新後無法獲取對應版本日誌
+- 修復訊息佇列斷線後無法重新連線
+- 修復系統磁碟滿載時無法載入登入頁面
 ### Tips
-- If you find any software problems, welcome to join the Discord and get support from 28,000 Zima community members
+- ### Tips
+- 如果你发现了任何软件问题，欢迎加入Discord社区，获得 28,000 名Zima社区成员的支持
 - <a href="https://zimaboard.com/discord" target="_blank" style="color:blue">https://zimaboard.com/discord</a>
