@@ -12,6 +12,5 @@
 - 修復訊息佇列斷線後無法重新連線
 - 修復系統磁碟滿載時無法載入登入頁面
 ### Tips
-- ### Tips
 - 如果你发现了任何软件问题，欢迎加入Discord社区，获得 28,000 名Zima社区成员的支持
 - <a href="https://zimaboard.com/discord" target="_blank" style="color:blue">https://zimaboard.com/discord</a>
