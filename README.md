@@ -64,7 +64,7 @@ The ZimaOS USB installation image has been released. Use Balena Etcher to burn t
 
 Note that it still requires UEFI boot.
 ```text
-https://github.com/IceWhaleTech/ZimaOS/releases/download/1.3.1-1/zimaos_zimacube-1.3.1-1_installer.img
+https://github.com/IceWhaleTech/ZimaOS/releases/download/1.4.3/zimaos_zimacube-1.4.3_installer.img
 ```
 We have also released images in a variety of VM formats, which you can download as needed from the Release page.
 
@@ -97,7 +97,7 @@ sudo apt install libfuse2
    - If there are multiple links below, make sure to select the correct link for your version of Generic x86-64.
 
      ```text
-     https://github.com/IceWhaleTech/ZimaOS/releases/download/1.3.1-1/zimaos_zimacube-1.3.1-1.img.xz
+     https://github.com/IceWhaleTech/ZimaOS/releases/download/1.4.3/zimaos_zimacube-1.4.3.img.xz
      ```
 
    Select and copy the URL or use the “copy” button that appear when you hover it
