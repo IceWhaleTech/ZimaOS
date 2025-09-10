@@ -1,4 +1,4 @@
-## [1.4.4-beta1]
+## [1.4.4]
 ### New
 - Funktion zurücksetzen Funktion: Wiederherstellen Sie die Werkseinstellungen in Einstellungen> Allgemein (Löschen Sie Einstellungen und Apps, erhalten Sie jedoch Daten).
 - RAID1 -Reparaturfunktion hinzugefügt: Reparatur kann durchgeführt werden, wenn das RAID1 -Array abgebaut oder beschädigt ist
