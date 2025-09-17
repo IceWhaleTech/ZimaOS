@@ -51,6 +51,13 @@ We aim to acknowledge reports within **10 business days** and provide updates th
 ## Published CVEs & Security Advisories
 
 
+
+### 2025
+| CVE ID | Title | Severity (CVSS 3.1) | Affected Versions | Status | Advisory Link | Researcher |
+|--------|-------|---------------------|------------------|--------|---------------|------------|
+| CVE-2025-58431 | Arbitrary File Read using localhost calls to File API Download | 5.3 Moderate | ZimaOS ≤ v1.4.4 | Fixed | [View Advisory](https://github.com/IceWhaleTech/ZimaOS/security/advisories/GHSA-vqrw-9v9m-6g87) | 0xvpr |
+| CVE-2025-58432 | Privilege Escalation using localhost calls to File API Upload | 5.3 Moderate | ZimaOS ≤ v1.4.4 | Fixed | [View Advisory](https://github.com/IceWhaleTech/ZimaOS/security/advisories/GHSA-3gp9-43rg-xrcc) | 0xvpr |
+
 ### 2024
 | CVE ID | Title | Severity (CVSS 3.1) | Affected Versions | Status | Advisory Link | Researcher |
 |--------|-------|---------------------|------------------|--------|---------------|------------|
