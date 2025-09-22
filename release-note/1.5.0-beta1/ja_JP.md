@@ -14,4 +14,4 @@
 - アイドル状態で検索オートコラプス機能が失敗した問題を修正しました
 ### Tips
 - ソフトウェアの問題が見つかった場合は、不一致に参加して、43,000人のZimaコミュニティメンバーからサポートを得ることができます
-- <a href = "https://zimaboard.com/discord"ターゲット= "_ blank" style = "color：blue"> https://zimaboard.com/discord </a>
+- <a href = "https://zimaboard.com/discord" target = "_ puste" style = "color: blue"> https://zimaboard.com/discord </a>
