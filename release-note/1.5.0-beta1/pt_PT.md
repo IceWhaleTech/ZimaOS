@@ -14,4 +14,4 @@ Para os usuários que atualizam para a versão mais recente imediatamente, esta 
 - Corrigido o problema em que o recurso de colapso automático de pesquisa falhou quando ocioso
 ### Tips
 - Se você encontrar algum problema de software, seja bem -vindo para ingressar na discórdia e obter suporte de 43.000 membros da comunidade Zima
-- )
+- <a href = "https://zimaboard.com/discord" target = "_ puste" style = "color: blue"> https://zimaboard.com/discord </a>
