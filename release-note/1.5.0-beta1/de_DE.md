@@ -11,7 +11,7 @@ Bei Benutzern, die umgehend auf die neueste Version upgraden, wird dieses Upgrad
 - Das Problem wurde mit falschem Dateizuschreibungsordner für den ersten Unterbenutzer behoben
 - Optimierte die Abrufgeschwindigkeit für Cloud -Speicher und lokale Netzwerkverbindungen
 - Das Problem wurde mit der Suchfunktion abnormal konsumierender Speicher behoben
-- Das Problem behoben
+- Das Problem wurde behoben, bei dem die Funktion zum automatischen Reduzieren der Suche im Leerlauf fehlschlug
 ### Tips
 - Wenn Sie Softwareprobleme finden, werden Sie willkommen, sich der Zwietracht anzuschließen und von 43.000 Mitgliedern der Zima -Community zu unterstützen
 - <a href = "https://zimaboard.com/discord" target = "_ leer" style = "color: blau"> https://zimaboard.com/discord </a>
