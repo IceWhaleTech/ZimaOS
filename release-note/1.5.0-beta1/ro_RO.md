@@ -14,4 +14,4 @@ Pentru utilizatorii care fac upgrade la cea mai recentă versiune prompt, aceast
 - S-a rezolvat problema în care funcția de căutare automată a eșuat la ralanti
 ### Tips
 - Dacă găsiți probleme software, bine ați venit să vă alăturați discordiei și să primiți sprijin de la 43.000 de membri ai comunității Zima
-- <a href = "https://zimaboard.com/discod" target = "_ blank" style = "color: albastru"> https://zimaboard.com/discor </a>
+- <a href = "https://zimaboard.com/discord" target = "_ puste" style = "color: blue"> https://zimaboard.com/discord </a>
