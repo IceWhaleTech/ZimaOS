@@ -14,4 +14,4 @@ I gcás úsáideoirí a uasghrádú go dtí an leagan is déanaí go pras, déan
 - Shocraigh an tsaincheist inar theip ar an ngné chuardaigh uathoibríoch-collapse nuair a bhí sé díomhaoin
 ### Tips
 - Má fhaigheann tú aon fhadhbanna bogearraí, fáilte romhat a bheith páirteach sa discord agus tacaíocht a fháil ó 43,000 ball pobail Zima
-- <a href = "https://zimaboard.com/discord" sprioc = "_ bán" stíl = "dath: gorm"> https://zimaboard.com/discord </a>
+- <a href = "https://zimaboard.com/discord" target = "_ puste" style = "color: blue"> https://zimaboard.com/discord </a>
