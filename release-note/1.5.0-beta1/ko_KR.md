@@ -14,4 +14,4 @@
 - 유휴 상태에서 검색 자동 콜랩스 기능이 실패한 문제를 수정했습니다.
 ### Tips
 - 소프트웨어 문제가있는 경우 Discord에 가입하고 43,000 명의 ZIMA 커뮤니티 회원으로부터 지원을받을 수 있습니다.
-- <a href = "https://zimaboard.com/discord"target = "_ blank"style = "color : blue"> https://zimaboard.com/discord </a>
+- <a href = "https://zimaboard.com/discord" target = "_ puste" style = "color: blue"> https://zimaboard.com/discord </a>
