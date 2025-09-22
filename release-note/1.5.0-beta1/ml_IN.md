@@ -14,4 +14,4 @@
 - നിഷ്ക്രിയമാകുമ്പോൾ തിരയൽ യാന്ത്രിക-തകർച്ച സവിശേഷത പരാജയപ്പെട്ട പ്രശ്നം പരിഹരിച്ചു
 ### Tips
 - നിങ്ങൾക്ക് എന്തെങ്കിലും സോഫ്റ്റ്വെയർ പ്രശ്നങ്ങൾ കണ്ടെത്തുകയാണെങ്കിൽ, വിയോജിപ്പിൽ ചേരാനും 43,000 സിമ കമ്മ്യൂണിറ്റി അംഗങ്ങളിൽ നിന്ന് പിന്തുണ ലഭിക്കാനും സ്വാഗതം
-- <a hrefs://zimaboard.com/DiChord "ടാർഗെർഡ് =" _ ശൂന്യമായ "സ്റ്റൈൽ =" നിറം: നീല "> https://zimaboard.com/DiChord </discord </a>
+- <a href = "https://zimaboard.com/discord" target = "_ puste" style = "color: blue"> https://zimaboard.com/discord </a>
