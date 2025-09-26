@@ -1,6 +1,6 @@
 ## [1.5.0]
 ### Good News
-Dobra wiadomość. Zimaos trafia 1 000 000 pobrań! Nie byłoby go dzisiaj bez ciągłego wsparcia naszej społeczności. W przypadku członków, którzy niezwłocznie aktualizują tę wersję, ta aktualizacja automatycznie uaktualni twoje obecne urządzenie do Zimaos [Plus Version](https://www.zimaspace.com/zimaos/spling), umożliwiając cieszenie się bogatszymi funkcjami w przyszłości. Szczegóły można znaleźć [tutaj](https://discord.com/channels/884667213326463016/888269879206100992/1420036155432505404). (Jeśli nie dołączyłeś, dołącz za pośrednictwem naszego [link zaproszenia](https://www.zimaboard.com/discord).)
+Dobra wiadomość. Zimaos trafia 1 000 000 pobrań! Nie byłoby go dzisiaj bez ciągłego wsparcia naszej społeczności. W przypadku członków, którzy niezwłocznie aktualizują tę wersję, ta aktualizacja automatycznie uaktualni twoje obecne urządzenie do Zimaos <a href="https://www.zimaspace.com/zimaos/pricing" target="_blank" style="color:blue">Plus Version</a>, umożliwiając cieszenie się bogatszymi funkcjami w przyszłości. 
 ### New
 - Nowa aplikacja do tworzenia kopii zapasowych Zima (na desce rozdzielczej) ma potężne funkcje tworzenia kopii zapasowych i nowy proces tworzenia kopii zapasowych
 - Nowe aplikacje uruchamiają i zatrzymaj status wyświetlacza na panelu uruchomienia aplikacji

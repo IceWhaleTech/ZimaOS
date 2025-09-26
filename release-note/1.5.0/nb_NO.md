@@ -1,6 +1,6 @@
 ## [1.5.0]
 ### Good News
-Gode ​​nyheter. Zimaos treffer 1 000 000+ nedlastinger! Det ville ikke være her i dag uten kontinuerlig støtte fra samfunnet vårt. For medlemmer som oppgraderer til denne versjonen omgående, vil denne oppgraderingen automatisk oppgradere din nåværende enhet til Zimaos [Plus -versjonen](https://www.zimaspace.com/zimaos/pricing), slik at du kan nyte rikere funksjoner i fremtiden. Detaljene finner du [her](https://discord.com/channels/884667213326463016/888269879206100992/1420036155432505404). (Hvis du ikke har blitt med, kan du bli med via [Invitation Link](https://www.zimaboard.com/discord).)
+Gode ​​nyheter. Zimaos treffer 1 000 000+ nedlastinger! Det ville ikke være her i dag uten kontinuerlig støtte fra samfunnet vårt. For medlemmer som oppgraderer til denne versjonen omgående, vil denne oppgraderingen automatisk oppgradere din nåværende enhet til Zimaos <a href="https://www.zimaspace.com/zimaos/pricing" target="_blank" style="color:blue">Plus -versjonen</a>, slik at du kan nyte rikere funksjoner i fremtiden.
 ### New
 - Den nye Zima Backup -appen (på dashbordet) har kraftige sikkerhetskopieringsfunksjoner og en ny sikkerhetskopiprosess
 - De nye appene starter og stopper statusvisningen på applanseringspanelet

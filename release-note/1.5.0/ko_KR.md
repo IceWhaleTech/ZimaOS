@@ -1,6 +1,6 @@
 ## [1.5.0]
 ### Good News
-좋은 소식. Zimaos는 1,000,000+ 다운로드를 쳤다! 오늘날 우리 커뮤니티의 지속적인 지원 없이는 여기에 있지 않을 것입니다. 이 버전으로 즉시 업그레이드 한 회원의 경우이 업그레이드는 현재 장치를 Zimaos [Plus Version](https://www.zimaspace.com/zimaos/pricing) 로 자동 업그레이드하여 향후 더 풍부한 기능을 즐길 수 있습니다. 세부 사항은 [여기](https://discord.com/channels/884667213326463016/88269879206100992/1420036155432505404)를 찾을 수 있습니다. (가입하지 않은 경우 [초대 링크](https://www.zimaboard.com/discord)를 통해 가입하십시오.)
+좋은 소식. Zimaos는 1,000,000+ 다운로드를 쳤다! 오늘날 우리 커뮤니티의 지속적인 지원 없이는 여기에 있지 않을 것입니다. 이 버전으로 즉시 업그레이드 한 회원의 경우이 업그레이드는 현재 장치를 Zimaos <a href="https://www.zimaspace.com/zimaos/pricing" target="_blank" style="color:blue">Plus Version</a>, 로 자동 업그레이드하여 향후 더 풍부한 기능을 즐길 수 있습니다.
 ### New
 - 새로운 Zima 백업 앱 (대시 보드의)에는 강력한 백업 기능과 새로운 백업 프로세스가 있습니다.
 - 앱 시작 패널에서 새 앱 시작 및 중지 상태 표시

@@ -1,6 +1,6 @@
 ## [1.5.0]
 ### Good News
-Dobre vijesti. Zimaos pogađa 1.000.000+ preuzimanja! Danas ne bi bilo ovdje bez kontinuirane podrške naše zajednice. Za članove koji se odmah nadograđuju na ovu verziju, ova nadogradnja automatski će nadograditi vaš trenutni uređaj na Zimaos [Plus verzija](https://www.zimaspace.com/zimaos/pricing), omogućujući vam da uživate u bogatijim značajkama u budućnosti. Pojedinosti možete pronaći [ovdje](https://discord.com/channels/88466721333363016/888269879206100992/1420036155432505404). (Ako se niste pridružili, pridružite se našu [vezu pozivnice](https://www.zimaboard.com/discord).)
+Dobre vijesti. Zimaos pogađa 1.000.000+ preuzimanja! Danas ne bi bilo ovdje bez kontinuirane podrške naše zajednice. Za članove koji se odmah nadograđuju na ovu verziju, ova nadogradnja automatski će nadograditi vaš trenutni uređaj na Zimaos <a href="https://www.zimaspace.com/zimaos/pricing" target="_blank" style="color:blue">Plus verzija</a>, omogućujući vam da uživate u bogatijim značajkama u budućnosti.
 ### New
 - Nova aplikacija za sigurnosnu kopiju Zima (na nadzornoj ploči) ima snažne sigurnosne značajke i novi postupak sigurnosnih kopija
 - Nove aplikacije za prikaz statusa pokretanja i zaustavljanja na ploči za pokretanje aplikacija

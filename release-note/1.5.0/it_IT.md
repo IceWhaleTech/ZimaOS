@@ -1,6 +1,6 @@
 ## [1.5.0]
 ### Good News
-Buone notizie. Zimaos colpisce oltre 1.000.000 download! Non sarebbe qui oggi senza il continuo supporto della nostra comunità. Per i membri che si aggiornano prontamente a questa versione, questo aggiornamento aggiornerà automaticamente il tuo dispositivo attuale a Zimaos [Plus Version](https://www.zimaspace.com/zimaos/pricing), permettendoti di godere di caratteristiche più ricche in futuro. I dettagli sono disponibili [qui](https://discord.com/channels/884667213326463016/888269879206100992/1420036155432505404). (Se non ti sei unito, ti preghiamo di unirti al nostro [Link di invito](https://www.zimaboard.com/discord).)
+Buone notizie. Zimaos colpisce oltre 1.000.000 download! Non sarebbe qui oggi senza il continuo supporto della nostra comunità. Per i membri che si aggiornano prontamente a questa versione, questo aggiornamento aggiornerà automaticamente il tuo dispositivo attuale a Zimaos <a href="https://www.zimaspace.com/zimaos/pricing" target="_blank" style="color:blue">Plus Version</a>, permettendoti di godere di caratteristiche più ricche in futuro.
 ### New
 - La nuova app di backup Zima (sulla dashboard) ha potenti funzionalità di backup e un nuovo processo di backup
 - Le nuove app avviano e arrestano la visualizzazione dello stato sul pannello di lancio dell'app

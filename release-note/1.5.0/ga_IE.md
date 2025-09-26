@@ -1,6 +1,6 @@
 ## [1.5.0]
 ### Good News
-Dea -scéal. Buaileann Zimaos le 1,000,000+ íosluchtú! Ní bheadh ​​sé anseo inniu gan tacaíocht leanúnach ár bpobal. Maidir le baill a uasghrádú go dtí an leagan seo go pras, déanfaidh an t -uasghrádú seo do ghléas reatha a uasghrádú go huathoibríoch chuig an Zimaos [Plus leagan](https://www.zimaspace.com/zimaos/pricing), ag ligean duit taitneamh a bhaint as gnéithe níos saibhre sa todhchaí. (Is féidir na sonraí a fháil [anseo](https://discord.com/Channels/88467213326463016/888269879206100992/1420036155432505404))
+Dea -scéal. Buaileann Zimaos le 1,000,000+ íosluchtú! Ní bheadh ​​sé anseo inniu gan tacaíocht leanúnach ár bpobal. Maidir le baill a uasghrádú go dtí an leagan seo go pras, déanfaidh an t -uasghrádú seo do ghléas reatha a uasghrádú go huathoibríoch chuig an Zimaos <a href="https://www.zimaspace.com/zimaos/pricing" target="_blank" style="color:blue">Plus leagan</a>, ag ligean duit taitneamh a bhaint as gnéithe níos saibhre sa todhchaí.
 ### New
 - Tá gnéithe cúltaca cumhachtacha agus próiseas cúltaca nua ag an aip chúltaca nua Zima (ar an bpainéal)
 - Taispeántas Stádas Tosaíonn agus Stop na n -aipeanna nua ar an bpainéal seolta app

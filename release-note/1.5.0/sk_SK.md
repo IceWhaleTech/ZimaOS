@@ -1,6 +1,6 @@
 ## [1.5.0]
 ### Good News
-Dobrá správa. Zimaos zasiahne 1 000 000+ stiahnutí! Dnes by tu nebolo bez neustálej podpory našej komunity. Pre členov, ktorí okamžite inovujú túto verziu, táto aktualizácia automaticky upgraduje vaše aktuálne zariadenie na Zimaos [plus verzia](https://www.zimaspace.com/zimaos/pricing), čo vám umožní vychutnať si bohatšie funkcie v budúcnosti. Podrobnosti nájdete [tu](https://discord.com/channels/884667213326463016/88269879206100992/14200361555432505404). (Ak ste sa nepripojili, pripojte sa prostredníctvom nášho [pozvánka](https://www.zimaboard.com/discord).)
+Dobrá správa. Zimaos zasiahne 1 000 000+ stiahnutí! Dnes by tu nebolo bez neustálej podpory našej komunity. Pre členov, ktorí okamžite inovujú túto verziu, táto aktualizácia automaticky upgraduje vaše aktuálne zariadenie na Zimaos <a href="https://www.zimaspace.com/zimaos/pricing" target="_blank" style="color:blue">plus verzia</a>, čo vám umožní vychutnať si bohatšie funkcie v budúcnosti.
 ### New
 - Nová záložná aplikácia Zima (na prístrojovej doske) má výkonné funkcie zálohovania a nový proces zálohovania
 - Nové aplikácie spustia a zastavia stav zobrazenia na spustení panela aplikácie

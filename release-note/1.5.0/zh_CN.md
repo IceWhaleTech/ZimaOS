@@ -1,6 +1,6 @@
 ## [1.5.0]
 ### Good News
-好消息。ZimaOS 下载量突破 1,000,000+！如果没有社区的持续支持，我们不可能走到今天。对于及时升级到本版本的成员，此次升级将自动把您当前设备升级为 ZimaOS [Plus 版本](https://www.zimaspace.com/zimaos/pricing)，让您在未来享受更丰富的功能。详情请见[这里](https://discord.com/channels/884667213326463016/888269879206100992/1420036155432505404)。（如果您还未加入，请通过我们的[邀请链接](https://www.zimaboard.com/discord)加入。）
+好消息。ZimaOS 下载量突破 1,000,000+！如果没有社区的持续支持，我们不可能走到今天。对于及时升级到本版本的成员，此次升级将自动把您当前设备升级为 ZimaOS <a href="https://www.zimaspace.com/zimaos/pricing" target="_blank" style="color:blue">Plus 版本</a>，让您在未来享受更丰富的功能。
 ### New
 - 新的Zima Backup 应用（在仪表盘上），具备强大的备份功能和全新的备份流程
 - 应用配置中新增了GPU选项，在安装GPU的前提下可以把GPU分配给应用

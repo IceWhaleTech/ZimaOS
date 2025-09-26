@@ -1,6 +1,6 @@
 ## [1.5.0]
 ### Good News
-Albricias. ¡Zimaos llega a más de 1,000,000 de descargas! No estaría aquí hoy sin el apoyo continuo de nuestra comunidad. Para los miembros que se actualizan a esta versión de inmediato, esta actualización actualizará automáticamente su dispositivo actual a la Zimaos [Plus Versión](https://www.zimaspace.com/zimaos/picing), lo que le permite disfrutar de funciones más ricas en el futuro. Los detalles se pueden encontrar [aquí](https://discord.com/channels/8846672133326463016/888269879206100992/1420036155432505404). (Si no se ha unido, únase a través de nuestro [enlace de invitación](https://www.zimaboard.com/discord).).
+Albricias. ¡Zimaos llega a más de 1,000,000 de descargas! No estaría aquí hoy sin el apoyo continuo de nuestra comunidad. Para los miembros que se actualizan a esta versión de inmediato, esta actualización actualizará automáticamente su dispositivo actual a la Zimaos <a href="https://www.zimaspace.com/zimaos/pricing" target="_blank" style="color:blue">Plus Versión</a>, lo que le permite disfrutar de funciones más ricas en el futuro.
 ### New
 - La nueva aplicación de copia de seguridad de Zima (en el tablero) tiene potentes características de copia de seguridad y un nuevo proceso de copia de seguridad
 - Las nuevas aplicaciones inician y detienen la pantalla de estado en el panel de lanzamiento de la aplicación

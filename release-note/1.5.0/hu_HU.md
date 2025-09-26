@@ -1,6 +1,6 @@
 ## [1.5.0]
 ### Good News
-Jó hír. A Zimaos 1 000 000+ letöltést talál! Ma nem lenne itt a közösségünk folyamatos támogatása nélkül. Azok a tagok számára, akik azonnal frissítik ezt a verzióra, ez a frissítés automatikusan frissíti az aktuális eszközt a Zimaos -ra [Plus verzió](https://www.zimaspace.com/zimaos/pricing), lehetővé téve a jövőben a gazdagabb funkciók élvezését. A részletek megtalálhatók [itt](https://discord.com/channels/884667213326463016/888269879206100992/1420036155432505404). (Ha még nem csatlakozott, kérjük, csatlakozzon a [Meghívó link -en](https://www.zimaboard.com/discord).)
+Jó hír. A Zimaos 1 000 000+ letöltést talál! Ma nem lenne itt a közösségünk folyamatos támogatása nélkül. Azok a tagok számára, akik azonnal frissítik ezt a verzióra, ez a frissítés automatikusan frissíti az aktuális eszközt a Zimaos -ra <a href="https://www.zimaspace.com/zimaos/pricing" target="_blank" style="color:blue">Plus verzió</a>, lehetővé téve a jövőben a gazdagabb funkciók élvezését.
 ### New
 - Az új Zima biztonsági mentési alkalmazás (a műszerfalon) erőteljes biztonsági mentési funkciókkal és új biztonsági mentési folyamattal rendelkezik
 - Az új alkalmazások az alkalmazás indító panelen indítják és leállítják az állapot megjelenítését

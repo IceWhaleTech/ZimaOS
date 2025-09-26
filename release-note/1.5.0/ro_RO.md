@@ -1,6 +1,6 @@
 ## [1.5.0]
 ### Good News
-Vești bune. Zimaos atinge peste 1.000.000 de descărcări! Astăzi nu ar fi aici fără sprijinul continuu al comunității noastre. Pentru membrii care fac upgrade la această versiune prompt, această actualizare vă va actualiza automat dispozitivul actual la ZIMAOS [Plus versiunea](https://www.zimaspace.com/zimaos/priceing), permițându -vă să vă bucurați de funcții mai bogate în viitor. Detaliile pot fi găsite [aici](https://discod.com/channels/884667213326463016/888269879206100992/1420036155432505404). (Dacă nu v -ați înscris, vă rugăm să vă alăturați prin [linkul nostru de invitație](https://www.zimaboard.com/discor).)
+Vești bune. Zimaos atinge peste 1.000.000 de descărcări! Astăzi nu ar fi aici fără sprijinul continuu al comunității noastre. Pentru membrii care fac upgrade la această versiune prompt, această actualizare vă va actualiza automat dispozitivul actual la ZIMAOS <a href="https://www.zimaspace.com/zimaos/pricing" target="_blank" style="color:blue">Plus versiunea</a>, permițându -vă să vă bucurați de funcții mai bogate în viitor.
 ### New
 - Noua aplicație de rezervă ZIMA (pe tabloul de bord) are funcții de rezervă puternice și un nou proces de rezervă
 - Noile aplicații pornește și opresc afișarea stării pe panoul de lansare a aplicației
