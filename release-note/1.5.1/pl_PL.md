@@ -11,7 +11,7 @@
 
 ### Optimized
 - Dodano obsługę wybierania katalogu głównego w kopiach zapasowych
-- Zoptymalizowana strategia ściągania obrazu Dockera
+- Optimized Docker image pull strategy
 - Poprawione wyświetlanie zbyt długich tagów w ustawieniach aplikacji
 - Zoptymalizowany interfejs do pobierania rozmiaru kopii zapasowej
 - Ulepszone komunikaty o błędach podczas instalowania prywatnych lub nieistniejących obrazów

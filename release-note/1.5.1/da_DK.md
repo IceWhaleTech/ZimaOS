@@ -1,7 +1,7 @@
 ## [1.5.1]
 ### Fixed
 - Rettede unøjagtige 'hent info' for ZimaOS-HD i filer
-- Rettet login-fejl for underbrugere med adgangskoder indeholdende specialtegn
+- Fixed login failure for sub-users with passwords containing special characters
 - Rettet brugt lager vist som 0, når RAID-navnet indeholder mellemrum
 - Rettede ugyldige downloadlinks til Arch/Debian-billeder i ZVM
 - Rettede diske, der ikke vises ved oprettelse af RAID på visse enheder
