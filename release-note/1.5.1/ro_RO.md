@@ -1,7 +1,7 @@
 ## [1.5.1]
 ### Fixed
 - S-a remediat „obține informații” inexacte pentru ZimaOS-HD în fișiere
-- Fixed login failure for sub-users with passwords containing special characters
+- S-a remediat o eroare de conectare pentru sub-utilizatori cu parole care conțin caractere speciale
 - S-a corectat spațiul de stocare utilizat care se afișează ca 0 când numele RAID conține spații
 - S-au remediat linkurile de descărcare invalide pentru imaginile Arch/Debian în ZVM
 - S-au rezolvat discurile care nu se afișează la crearea RAID pe anumite dispozitive
