@@ -7,7 +7,7 @@
 
 ### Fixed
 - Fixed abnormal display of “ZimaOS-HD” in Files when USB drive is used as the system disk
-- Fixed inability to open zima-storage in Backup page when USB drive is used as the system disk
+- Fixed zima-storage not opening in Backup when booting from a USB drive
 - Fixed issue where storage devices were not shown in Files due to disk type parsing failure
 - Fixed display abnormalities when mount point paths contain spaces
 - Fixed abnormal size calculation when migrating directories that contain spaces
