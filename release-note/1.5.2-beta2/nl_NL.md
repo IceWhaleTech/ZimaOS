@@ -1,6 +1,6 @@
 ## [1.5.2-beta2]
 ### Fixed
-- Fixed an issue where backup tasks failed to create
+- Een probleem verholpen waarbij back-uptaken niet konden worden aangemaakt
 
 ## [1.5.2-beta1]
 ### New

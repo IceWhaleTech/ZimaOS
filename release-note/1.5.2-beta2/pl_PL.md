@@ -1,6 +1,6 @@
 ## [1.5.2-beta2]
 ### Fixed
-- Fixed an issue where backup tasks failed to create
+- Naprawiono problem, w wyniku którego zadania tworzenia kopii zapasowych nie mogły zostać utworzone
 
 ## [1.5.2-beta1]
 ### New

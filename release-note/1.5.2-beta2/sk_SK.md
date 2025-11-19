@@ -1,6 +1,6 @@
 ## [1.5.2-beta2]
 ### Fixed
-- Fixed an issue where backup tasks failed to create
+- Opravený problém, pri ktorom sa nepodarilo vytvoriť úlohy zálohovania
 
 ## [1.5.2-beta1]
 ### New

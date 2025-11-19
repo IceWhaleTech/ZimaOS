@@ -1,6 +1,6 @@
 ## [1.5.2-beta2]
 ### Fixed
-- Fixed an issue where backup tasks failed to create
+- S-a remediat o problemă din cauza căreia sarcinile de backup nu puteau fi create
 
 ## [1.5.2-beta1]
 ### New

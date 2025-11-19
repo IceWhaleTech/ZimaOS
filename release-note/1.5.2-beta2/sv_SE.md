@@ -1,6 +1,6 @@
 ## [1.5.2-beta2]
 ### Fixed
-- Fixed an issue where backup tasks failed to create
+- Fixade ett problem där säkerhetskopieringsuppgifter inte kunde skapas
 
 ## [1.5.2-beta1]
 ### New
