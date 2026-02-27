@@ -51,6 +51,10 @@ We aim to acknowledge reports within **10 business days** and provide updates th
 ## Published CVEs & Security Advisories
 
 
+### 2026
+| CVE ID | Title | Severity (CVSS 3.1) | Affected Versions | Status | Advisory Link | Researcher |
+|--------|-------|---------------------|------------------|--------|---------------|------------|
+| CVE-2026-21891 | Authentication Bypass via System-Level Username | 9.4 High | ZimaOS ≤ v1.5.2 | Fixed | [View Advisory](https://github.com/IceWhaleTech/ZimaOS/security/advisories/GHSA-xj93-qw9p-jxq4) | captain-noob |
 
 ### 2025
 | CVE ID | Title | Severity (CVSS 3.1) | Affected Versions | Status | Advisory Link | Researcher |
