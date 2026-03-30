@@ -78,6 +78,8 @@ We aim to acknowledge reports within **10 business days** and provide updates th
 ## Hall of Fame
 We thank the security researchers who responsibly disclosed vulnerabilities:
 
+- **Rushi9** - Multiple CVEs in ZimaOS 
+- **captain-noob** - Multiple CVEs in ZimaOS 
 - **0xvpr** - Multiple CVEs in ZimaOS 
 - **DrDark1999** - Multiple CVEs in ZimaOS
 ---
