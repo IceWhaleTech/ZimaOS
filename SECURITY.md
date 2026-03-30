@@ -54,7 +54,8 @@ We aim to acknowledge reports within **10 business days** and provide updates th
 ### 2026
 | CVE ID | Title | Severity (CVSS 3.1) | Affected Versions | Status | Advisory Link | Researcher |
 |--------|-------|---------------------|------------------|--------|---------------|------------|
-| CVE-2026-28286 |ZimaOS v1.5.2-beta3 - Unauthorized Creation of Files/Folders in Restricted System Directories via API | 8.6 High | ZimaOS ≤ v1.5.3 | Fixed | [View Advisory](https://github.com/IceWhaleTech/ZimaOS/security/advisories/GHSA-65mg-9gw5-vr7g) |  Rushi9 |
+| CVE-2026-28442 | ZimaOS v1.5.2-beta3 - Arbitrary Deletion of Internal System Files via API Path Manipulation | 8.6 High | ZimaOS ≤ v1.5.3 | Fixed | [View Advisory](https://github.com/IceWhaleTech/ZimaOS/security/advisories/GHSA-q5hp-59wm-9xq3) |  Rushi9 |
+| CVE-2026-28286 | ZimaOS v1.5.2-beta3 - Unauthorized Creation of Files/Folders in Restricted System Directories via API | 8.6 High | ZimaOS ≤ v1.5.3 | Fixed | [View Advisory](https://github.com/IceWhaleTech/ZimaOS/security/advisories/GHSA-65mg-9gw5-vr7g) |  Rushi9 |
 | CVE-2026-21891 | Authentication Bypass via System-Level Username | 9.4 High | ZimaOS ≤ v1.5.2 | Fixed | [View Advisory](https://github.com/IceWhaleTech/ZimaOS/security/advisories/GHSA-xj93-qw9p-jxq4) | captain-noob |
 
 ### 2025
