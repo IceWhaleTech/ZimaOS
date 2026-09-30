@@ -96,6 +96,10 @@ This project is just for releasing test images, if you want to discuss related i
 
 [ZimaOS.webm](https://github.com/user-attachments/assets/cb81bf93-a89b-46a8-afc6-056efb5483e3)
 
+## Run ZimaOS as a Docker container
+
+See [dockur/zima](https://github.com/dockur/zima) for a  container, an ideal solution to try out ZimaOS in a quick and simple way.
+
 ## Installation on Proxmox
 
 [Follow the link](https://github.com/IceWhaleTech/zimaos-rauc/issues/5).  Thanks [@silycr](https://github.com/silycr) for the tutorial!
